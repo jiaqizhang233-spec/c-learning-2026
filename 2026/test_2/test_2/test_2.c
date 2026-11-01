@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+	printf("%c\n", 'X');
+	printf("%c\n", '\130');
+
+	return 0;
+}
